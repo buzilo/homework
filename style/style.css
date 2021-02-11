@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "Manrope-Regular";
+    font-style: normal;
+    font-weight: 400;
+    src: local("Manrope-Regular")
+    url(fonts/Manrope-Regular.woff2),
+    url(fonts/Manrope-Regular.woff);
+        
+}
+p{
+    font-family: "Manrope-Regular";
+}
